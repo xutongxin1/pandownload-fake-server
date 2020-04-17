@@ -14,12 +14,11 @@ https://www.hostloc.com/thread-675311-1-1.html
 64.52.84.68 pandownload.com
 ```
 
+4.下载PanDownload_add_temp.zip解压使用即可
+
 目前看来bdc token和启动并无太大联系，理论上此方法将一直可用
 # 想说的话
 **F\*\*k Baidu**
 
-＃ 可能的启动脚本
+祝作者平安无事
 
-python -m http.server 80
-127.0.0.1 pandownload.com
-ipconfig /flushdns
